@@ -4,6 +4,7 @@ Quantum Entanglement Protocol is an open, mixed ERC-20, ERC-721 and ERC1155 impl
 
 ## links
 
+* [Twitter Status link](https://x.com/qe_token/status/1869425919527632954)
 * [video demo](https://www.loom.com/share/915eb508bd624998b96fc529d723a1ba)
 * [Dapp online Demo](https://qe-mantle.vercel.app/)
 * [contract deployment](https://explorer.sepolia.mantle.xyz/address/0x02A53f22e2F457671D531A10143Bca5A7DDA1DC2)
